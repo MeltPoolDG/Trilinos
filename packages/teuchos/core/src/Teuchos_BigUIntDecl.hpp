@@ -42,6 +42,7 @@
 #ifndef TEUCHOS_BIG_UINT_DECL_HPP
 #define TEUCHOS_BIG_UINT_DECL_HPP
 
+#include <cinttypes>
 #include <iosfwd>
 
 /*! \file Teuchos_BigUIntDecl.hpp
